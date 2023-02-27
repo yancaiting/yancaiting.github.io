@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Farida&#39;s Blog</title>
+    <link>https://yancaiting.github.io/categories/</link>
+    <description>Recent content in Categories on Farida&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 27 Feb 2023 22:02:12 +0800</lastBuildDate><atom:link href="https://yancaiting.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Story</title>
+      <link>https://yancaiting.github.io/categories/story/</link>
+      <pubDate>Mon, 27 Feb 2023 22:02:12 +0800</pubDate>
+      
+      <guid>https://yancaiting.github.io/categories/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go Language</title>
+      <link>https://yancaiting.github.io/categories/go-language/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://yancaiting.github.io/categories/go-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming Language</title>
+      <link>https://yancaiting.github.io/categories/programming-language/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://yancaiting.github.io/categories/programming-language/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
